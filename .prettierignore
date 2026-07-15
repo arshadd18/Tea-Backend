@@ -1,0 +1,4 @@
+.env
+.ennv*
+/.vscode
+node_modules/
